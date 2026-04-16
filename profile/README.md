@@ -1,1 +1,1 @@
-# Advanced Network Architecture Laboratory
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=25&duration=1000&pause=3000&color=968EF7&center=true&vCenter=true&width=440&lines=Advanced+Network+Architecture+Lab;AdvancedNet+Lab)](https://git.io/typing-svg)
